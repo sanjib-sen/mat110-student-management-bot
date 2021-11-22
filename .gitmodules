@@ -1,0 +1,3 @@
+[submodule "mat110_discord_bot"]
+	path = mat110_discord_bot
+	url = https://github.com/sanjib-sen/mat110_discord_bot
